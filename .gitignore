@@ -11,5 +11,5 @@
 # if the files to be tracked are in subdirectories
 !PytorchLearning/*.py
 !PythonCollabs/*.py
-!PythonCollabs/*.ipynb
+!PythonCollabs/*/*.ipynb
 
